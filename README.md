@@ -1,5 +1,11 @@
-## Hi folks, I'm Bright | 大家好， 我是 Bright 👋
+# Hi folks, I'm Bright | 大家好， 我是 Bright 👋
 ![Profile views](https://gpvc.arturio.dev/underdogdude) 
+ - Front End Developer & UX/UI & Part-time Designer
+ - Originally from Thailand 🇹🇭, now based in Taiwan 🇹🇼
+ - A passion for inventing
+ - 📫 How to reach me: [title](pusitkttrnr@gmail.com)
+
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=underdogdude&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&line_height=20)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=underdogdude&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
