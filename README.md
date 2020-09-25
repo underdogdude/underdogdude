@@ -1,5 +1,8 @@
-### Hi there 👋
-![Profile views](https://gpvc.arturio.dev/underdogdude)
+## Hi folks, I'm Bright | 大家好， 我是 Bright 👋
+![Profile views](https://gpvc.arturio.dev/underdogdude) 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=underdogdude&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=underdogdude&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
