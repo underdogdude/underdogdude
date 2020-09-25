@@ -1,15 +1,8 @@
 ## Hi folks, I'm Bright | 大家好， 我是 Bright 👋
 ![Profile views](https://gpvc.arturio.dev/underdogdude) 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=underdogdude&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=underdogdude&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=underdogdude&show_icons=true&theme=highcontrast" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=underdogdude&theme=dracula&layout=compact" />
-</a>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=underdogdude&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=underdogdude&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **underdogdude/underdogdude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
