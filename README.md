@@ -1,8 +1,8 @@
 ## Hi folks, I'm Bright | 大家好， 我是 Bright 👋
 ![Profile views](https://gpvc.arturio.dev/underdogdude) 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=underdogdude&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=underdogdude&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=underdogdude&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=underdogdude&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
