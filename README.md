@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Profile views](https://gpvc.arturio.dev/[underdogdude])
+![Profile views](https://gpvc.arturio.dev/underdogdude)
 
 
 <!--
