@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/underdogdude) 
  - Front End Developer & UX/UI & Part-time Designer
  - Originally from Thailand 🇹🇭, now based in Taiwan 🇹🇼
- - Passionate about inventing stuff
+ - Passionate about inventing stuff 🔭
  - How to reach me 📫 pusitkttrnr@gmail.com
 
 
