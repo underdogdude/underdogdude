@@ -3,7 +3,7 @@
  - Front End Developer ⌨️ & UX/UI Designer 🎨
  - Originally from Thailand 🇹🇭, now based in Taiwan 🇹🇼
  - Passionate about inventing stuff 🔭
- - How to reach me 📫pusitkttrnr@gmail.com
+ - How to reach me 📫 pusitkttrnr@gmail.com
 
 
 
