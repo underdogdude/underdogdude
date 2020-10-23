@@ -3,7 +3,7 @@
  - Front End Developer ⌨️ & UX/UI Designer 🎨
  - Originally from Thailand 🇹🇭, now based in Taiwan 🇹🇼
  - Passionate about inventing stuff 🔭
- - How to reach me 📫 pusitkttrnr@gmail.com.
+ - How to reach me 📫 pusitkttrnr@gmail.com
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=underdogdude&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&line_height=20)
