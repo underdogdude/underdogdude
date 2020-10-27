@@ -1,6 +1,6 @@
 # Hi folks, I'm Bright | 大家好， 我是 Bright 👋
 ![Profile views](https://gpvc.arturio.dev/underdogdude) 
- - Front End Developer ⌨️ & UX/UI Designer 🎨🎨
+ - Front End Developer ⌨️ & UX/UI Designer 🎨
  - Originally from Thailand 🇹🇭, currently based in Taiwan 🇹🇼
  - Passionate about inventing stuff 🔭
  - How to reach me 📫 pusitkttrnr@gmail.com
